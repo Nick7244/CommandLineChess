@@ -1,0 +1,52 @@
+TEAM:
+
+Nicholas Maritato   JHED ID: nmarita1
+Yun Fei Li	    JHED ID: yli208
+Derek Chang 	    JHED ID: dchang38
+
+
+COMPLETENESS:
+
+To the best of our knowledge, everything should work as it’s supposed to, including castling.
+
+
+RUN/COMPILATION:
+
+To compile our program, simply use the ‘make’ command. To run our program, simply use the command ‘./play’.
+
+
+DESIGN CHOICES:
+
+In terms of our board display, it looks best on a windows computer just for reference. We tried to find the best
+color combinations for the background tiles to make both black and white text(for the black and white pieces) stand
+out. We found this combination to be green and bright red tiles. We also found that blue text for the ghost works
+best as a third text color on these tile backgrounds. We chose to represent the pieces with letters instead of the
+unit code chess piece icons because we found these icons to appear too small.
+
+In handling checking for check, we chose to iterate through each location on the board and if there’s a piece there,
+check if it had an unblocked valid move shape to the opponent king. For handling stalemate, after a valid move is
+made, we iterate through each piece on the board for a given player and see if there is any piece that had an unblocked
+valid move that doesn’t result in its team’s own king being put in check. Basically, its seeing if there are any valid
+moves for the next turn that don’t result in the player being but in check. To handle checkmate, we determine if a
+player is in check after a valid move is made.  If so, we call our stalemate function since this just checks if on
+the next turn the player has any valid moves that don’t result in the player being in check. This basically amounts to
+the following equation: currently in check + no moves next turn to take you out of check = checkmate. 
+
+In the make move function, we do not make the permanent capture until everything is determined to be valid since we cannot
+undo that (on the contrary it is easy to undo a move to an empty space, so we are able to do this more towards the
+beginning of the make move function). So, when checking for exposing to check, if the move made that turn was a capture
+move, we temporarily make the capture by saving the captured piece in another temp piece and the setting the captured piece
+to the attacking piece and revert everything back at the end of the function.
+
+Also, the check check, check stale, and check stalemate functions all take position variables we identify as exempt. This
+is because when we make a move for the turn, we copy the piece to where it is going but don’t delete the original piece at
+the beginning point until the very end so that we can easily revert the move if something goes wrong. Therefore, we send
+these original positions as exempt positions. In the functions that take these positions, we basically ignore the piece
+at that position making it “invisible” so as to emulate the chess board after the turn is done and the original move is
+permanently made. 
+
+In the play.cpp file (which contains our main function), we have a boolean variable called game_run which we initialize
+to true. We send a reference to this variable to the constructor for loading a game and if there is a load failure, it
+sets the game_run variable to false. We only call the run method on the game if this game_run variable is set to true.
+This allows us to exit the program due to a load failure while still allowing for destructors to be called (as apposed
+to abort() or exit() which don’t allow for the destructors to be called).

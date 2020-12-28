@@ -1,0 +1,664 @@
+commit aa817498497d112268c60e74e5003ea82d2893e0
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Dec 8 21:22:28 2017 -0500
+
+    Edited README
+
+commit e13cf0d7896af204e08f88134d27581789e5fec9
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Dec 8 21:10:11 2017 -0500
+
+    fixed various bugs with Nick
+
+commit fd80c63ed4b1d88b96deb84c97a2ae89166b537a
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Dec 8 18:15:57 2017 -0500
+
+    Worked on bug fixes
+
+commit c10ce50faeda39fc2725f6ab535dea0de30e5320
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 16:02:33 2017 -0500
+
+    valgrind is good, castle bug needs to be fixed
+
+commit b461c832f0bef398155100e202bf4b03888ee01a
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 15:38:44 2017 -0500
+
+    ghost valgrind
+
+commit 24a30e647f929eb2b52cd88b04d1a321e32ab2a5
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 15:25:43 2017 -0500
+
+    fixed valgrind and capture to check bug
+
+commit 89c3dfb7f1a2ef90b63ee595c5d67824d15a9e4f
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 14:51:15 2017 -0500
+
+    valgrind in progress
+
+commit ff4b0e0d065ee77842600ee191a29ada582dfc2a
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 14:45:54 2017 -0500
+
+    valgrind in progress
+
+commit 55714a8b2fd801207a369a2a14209313381bd8fa
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Fri Dec 8 12:47:59 2017 -0500
+
+    updated README
+
+commit e9bd43fa402b10b1499bddd7fcf19e4fc1f0b3b1
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Fri Dec 8 12:40:52 2017 -0500
+
+    testing
+
+commit 4b80c58870d96ed56300b3179e2f1374a0d26dec
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Dec 8 11:47:16 2017 -0500
+
+    Added castle invalid if king moves through check position
+
+commit 35104ad2038f5449cd54c6f166ae3c70725e61ce
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 03:37:53 2017 -0500
+
+    made readme
+
+commit b02ce23668c4a3aef8d2d704eb8b07b5d38c0213
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 03:31:45 2017 -0500
+
+    updated repo
+
+commit b27d1c5200836e5fdb3268445e0863ca91da0eea
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 08:30:29 2017 +0000
+
+    .nfs000000001ab790e000007c49 deleted online with Bitbucket
+
+commit 27e240d6ecfecbab9d0f64875d3ae2f515446b8d
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 08:30:16 2017 +0000
+
+    .nfs00000000170914a700007c45 deleted online with Bitbucket
+
+commit 8a3740bc922a61698689d96eabf1378cf7c38572
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 08:30:02 2017 +0000
+
+    .nfs000000001709143000007c44 deleted online with Bitbucket
+
+commit d18a0b3d316b0a1e651b546e0ecd3ad80ef0d874
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 03:29:04 2017 -0500
+
+    updated repo
+
+commit baa0f00c78677bf6ebc4dfe46a3a7d82b7284ae6
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 03:27:33 2017 -0500
+
+    fixed other bug
+
+commit 721c191bc2bc63d8f6df5384f67274d793133fb9
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Fri Dec 8 03:23:30 2017 -0500
+
+    fixed bug
+
+commit dff9afc331599228d75fb813758d6e141e4605bb
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Dec 8 03:03:00 2017 -0500
+
+    Worked on Modularizing code
+
+commit 430d87c28f7b12c007a45c2bddbe7aa3eaeac391
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 22:59:18 2017 -0500
+
+    modularized and fixed a bunch of stuff
+
+commit a0e6519ebdf2fac776e336d4268d38f40ad85cea
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 20:33:25 2017 -0500
+
+    updated repo
+
+commit 48daf0e1b561e8b061cd72b88281bcc19f5df48f
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 20:32:02 2017 -0500
+
+    fixed bugs
+
+commit b91201d570ab301546ab2495d7b15046be409bd0
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 18:28:02 2017 -0500
+
+    bug fixes
+
+commit ee4b861dcd92b6a8b9660a44b3aff51539101107
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 18:17:07 2017 -0500
+
+    updated repo
+
+commit 8e2f8014346ba9f5e5dd1a8325e886bf986b4ac8
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 18:13:51 2017 -0500
+
+    fixed various bugs and conducted checks with spooky chess
+
+commit 6103e82da41bc0a3f4c2f33921158d700e36bfc6
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Thu Dec 7 15:35:45 2017 -0500
+
+    updated repo
+
+commit 22288355d8a29a24c9dc567149babcc44057c77f
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Thu Dec 7 01:57:51 2017 -0500
+
+    updated save for king of the hill game
+
+commit fc57090fd88281d08f7e7a3a9aec491528dc1c6e
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Thu Dec 7 01:22:00 2017 -0500
+
+    Worked on board display and fixed bug with check
+
+commit f0b472bf21d380d53e6bfcd996e35f24c73fe621
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Thu Dec 7 00:08:28 2017 -0500
+
+    made Spooky chess work perfectly, also save and load for Spooky chess works now
+
+commit f5b68af8bf0012c601d36442f3f771acae5cea1e
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Dec 6 17:13:54 2017 -0500
+
+    worked on spooky chess
+
+commit 84788b9fb2b422497654e4adbebc25cf9bd05acb
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Dec 6 16:38:32 2017 -0500
+
+    worked on spooky chess
+
+commit 3b2855ce53451115842ffffba2842c806cd63ac0
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Dec 6 12:19:37 2017 -0500
+
+    Worked on board display
+
+commit 29450db9d437d39d78b147fe7a30b4ea5878a413
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Dec 6 11:50:00 2017 -0500
+
+    Worked on display board
+
+commit 9b1a2bc8887f4b7832860dfd8b9f762d183608b9
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Wed Dec 6 01:25:43 2017 -0500
+
+    delets old ghost
+
+commit 25b9bb010dabe7869b819cc45996b4797a0ed9e5
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Wed Dec 6 01:13:19 2017 -0500
+
+    ghost now moves correctly to empty space
+
+commit 54007c594dbb7f4ff81ad13b92ad8f693fc0b1cf
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Tue Dec 5 20:50:27 2017 -0500
+
+    made King of the kill game class work
+
+commit e1ba64a70eff7785eed189b5cb268b8947492ca6
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Tue Dec 5 19:31:46 2017 -0500
+
+    added random number generation
+
+commit 1eb52fff81ecb449296af5b8d6f6a04a6001ec27
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Tue Dec 5 19:10:45 2017 -0500
+
+    added README
+
+commit e9d13f8d858227a032c667ff46e237a2d57ed9dd
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Dec 5 16:58:05 2017 -0500
+
+    updated repo
+
+commit 4f4876586c3b09c0818f262788a050587d2d3118
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Dec 5 16:57:01 2017 -0500
+
+    fixed bugs
+
+commit 5d3dc9177a6db3953c0c07ccbd03bb4a2a2c85b6
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Dec 5 15:40:15 2017 -0500
+
+    fixed castling
+
+commit c9a4e0d0a05932300dfb2e6ee3a682de9a9d940d
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Tue Dec 5 01:01:40 2017 -0500
+
+    added SpookyChessGame.cpp
+
+commit 1f6e76178ae75c748ded2aa08f9ede226cb8a61d
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Dec 5 00:25:38 2017 -0500
+
+    fixed bugs
+
+commit d1cb5ee8081c9af20e766f9ac47ea2264a26305c
+Merge: 26f544e 64bf922
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 22:30:43 2017 -0500
+
+    merge
+
+commit 26f544e2f3c670240904cc14b2802d2ff69364c8
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 22:28:21 2017 -0500
+
+    merge
+
+commit 64bf922a7d7b9e8dea5fadf528575806c3fe12a8
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Dec 4 21:19:11 2017 -0500
+
+    added SpookyChessGame.h
+
+commit c49f189d3ded4f066713f21c5e25b0914d4832ce
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Dec 4 19:46:32 2017 -0500
+
+    modified ghost class
+
+commit a7e1f2d4813847de0b068a27c339e732b22b5790
+Merge: fe3de5c 25cb5d0
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Dec 4 19:42:27 2017 -0500
+
+    merge
+
+commit 25cb5d013cd5f3be4d5c4c5cbf0efbb1b5073d48
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Dec 4 19:34:42 2017 -0500
+
+    Tested for bugs
+
+commit fe3de5cc8a09760ecffdec2d6323a94ddb4055df
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Dec 4 16:57:51 2017 -0500
+
+    added Ghost chess piece
+
+commit a26dbcf88adfded478e85f1151ff5faa0e7183dd
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 15:55:23 2017 -0500
+
+    fixed some valgrind errors
+
+commit 6c602a667c1283be44b072101ea1ad944b0198bd
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 15:42:42 2017 -0500
+
+    fixed a variety of bugs
+
+commit 99478745c139a56d18a5c4c2744725e06505833c
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 11:51:38 2017 -0500
+
+    fixed stalemate bug
+
+commit 9208ef8936f88be9e9a3981efcbb001ecf5a2995
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Dec 4 10:41:40 2017 -0500
+
+    started fixing stalemate
+
+commit cfce42d9c5fb9fc15c4651b8788e29aedf875f74
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Sun Dec 3 22:52:48 2017 -0500
+
+    updated king of the hill check in ChessGame.cpp
+
+commit 51ff151a7d76fa2a7b390b6a61ff3e9a4d416695
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Sun Dec 3 00:21:20 2017 -0500
+
+    added king of the hill implementation
+
+commit 3f98c6f95fa731e260e4516595185a6d4c4fc2da
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Sun Dec 3 00:19:34 2017 -0500
+
+    added king of the hill enum
+
+commit a1720c84db61a7e8e566e9769350464c4418b999
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 22:49:04 2017 -0500
+
+    fixed castling bug
+
+commit ab5974e95690a2ab1d7e92d3db92d1584617ca8c
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 22:23:04 2017 -0500
+
+    fixed pawn swap
+
+commit 6c008ea4a98aff86f2fca75519f706793ef3a12c
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 21:44:47 2017 -0500
+
+    worked on pawn swap
+
+commit 91583284f06ff7706055b347512ae585385dd9be
+Merge: 1443ccf 445f565
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 21:37:54 2017 -0500
+
+    fixed merge conflict
+
+commit 1443ccf0747e1ae89a0bbfc14a4e6db76c8c4840
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 21:34:23 2017 -0500
+
+    started pawn swap
+
+commit 445f56502e97f7564a64f7ecefb3b2b5c35c16d2
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 29 15:13:55 2017 -0500
+
+    Fixed check_check
+
+commit 696b6124bd0f9424da2b3fb4ddeeffdd18ab03f6
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 29 14:20:22 2017 -0500
+
+    Made changes to castle move
+
+commit 0144d8c167fd74457a8f747b46fbc6141aa1c1f9
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 29 14:11:47 2017 -0500
+
+    Finished castle move
+
+commit 87264db555c7027163eb5904af9260b2162321ee
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 29 13:29:31 2017 -0500
+
+    edited rook function
+
+commit 80fb867e8503e244bb40d9476acc3a5f793ea488
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 29 12:51:59 2017 -0500
+
+    Added castle move
+
+commit e6dcd809e66274b69ee8b57150aee0adb31d7df4
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 28 22:51:57 2017 -0500
+
+    fixed bug stalemate, fixed pawn movement, and started castling
+
+commit 1688c8cc85966ad0c4fdaeae41b9e04b06391bfc
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 28 22:12:37 2017 -0500
+
+    started castling and fixed pawn movement
+
+commit 2a3a91041920905edcbc1d8fa54623d9006b524d
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 28 17:27:28 2017 -0500
+
+    fixed stalemate
+
+commit f871b52cfca58940bfd4e49e2917d2f185f14380
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 28 11:56:34 2017 -0500
+
+    worked on fixing stalemate
+
+commit 32d01a0ca87680c2bfe5887a10bc1711deb66521
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 28 11:48:27 2017 -0500
+
+    fixed king movement, made test_stalemate file, and fixed chexkmate and stalemate output
+
+commit 13cf458824d73e899797c7c3a158b3c5f9e1f566
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Nov 27 13:32:34 2017 -0500
+
+    maked
+
+commit 6f7e912b6761b5ec5ef4d1fb600e1afae9ba5dfc
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Nov 27 13:30:08 2017 -0500
+
+    fixed checkmate and stalemate output
+
+commit 10b2e3261c13c0ab599f469c3ec37a027cb840ac
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Sun Nov 26 22:52:03 2017 -0500
+
+    fixed save/load and check
+
+commit 2329ac565cbcc55a9c6113b92bd7df9ce814b369
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 24 22:57:40 2017 -0500
+
+    Worked on checkmate and stalemate
+
+commit e71689d5cd56580523bc278254c8cda5bf563ac4
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 24 18:09:46 2017 -0500
+
+    Worked on checkmate and stalemate conditions
+
+commit 5ab348a1cd280508e855b5a8881de3131e63d831
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Thu Nov 23 17:32:36 2017 -0500
+
+    Worked on check and blocked functions
+
+commit 45dfed38d767c7e5069b7ef3adf12e20875709ba
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 22 02:34:34 2017 -0500
+
+    worked on check funtion
+
+commit cac63f8075bb9a9c8435c870053b1c9a13af0c8a
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 21 23:48:29 2017 -0500
+
+    added enumerations
+
+commit b316fdd3e6c183d4e2fd71824ee214e5111eba5a
+Merge: 617010d 265cfcc
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 21 23:05:58 2017 -0500
+
+    fixed merge errors
+
+commit 265cfcc71bb16d89117ad7bb0c85616abb9cd290
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 22 03:47:11 2017 +0000
+
+    Game.cpp edited online with Bitbucket
+
+commit 5cc28509c06e60aecc939bacd97e702ed4467493
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 22 03:41:57 2017 +0000
+
+    Game.h edited online with Bitbucket
+
+commit ef59ab4d4a70e33f09fdb7c4cbc6038556f0940e
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 22 03:40:01 2017 +0000
+
+    ChessGame.h edited online with Bitbucket
+
+commit efd6b32661cfa61c96d11709a68306716bc6b283
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Wed Nov 22 03:35:57 2017 +0000
+
+    ChessGame.cpp edited online with Bitbucket
+
+commit 5484d7566c706695664ed949b945264e7e991ffc
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Tue Nov 21 22:10:56 2017 -0500
+
+    Got check to work for attacking and error messaging works
+
+commit 6c214c74d7c54cd5240ef137dfef4ca79a7e0d04
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Tue Nov 21 19:32:09 2017 -0500
+
+    Worked on check functions and make move
+
+commit c10b2dcb536750a14aca2898738e5d0474f6658b
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Tue Nov 21 17:02:37 2017 -0500
+
+    Fixed compile issue with save function
+
+commit 617010d5a9bd395ec8141711e3de91ad7e42c24b
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Tue Nov 21 16:25:05 2017 -0500
+
+    worked on save/load functionality
+
+commit 101d4512a2c39e90abcfc854a32a838629084983
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Tue Nov 21 02:20:28 2017 -0500
+
+    added save function
+
+commit c60e918ea17579a596753e88920195b9fddb1320
+Author: Nick Maritato <nmarita1@jhu.edu>
+Date:   Mon Nov 20 00:52:57 2017 -0500
+
+    fixed parse error handling, board switch, and other various input error handling
+
+commit d197d79fa5eba8bbde65ba75d47fa2ee0f2510f2
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Sun Nov 19 16:21:36 2017 -0500
+
+    Finished basic piece movements and worked on run function
+
+commit be97b4d6ec81c54b325ea36a5a06980636b430ad
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Sun Nov 19 14:50:29 2017 -0500
+
+    Finished knight and bishop movements
+
+commit 222cb3e8b310e4dbacffaed31839993c2702d7f7
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 17 14:08:31 2017 -0500
+
+    Worked on loading text file
+
+commit c42bc81382e800c382d3b7ed416ba71f0f471e83
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 17 13:56:01 2017 -0500
+
+    Fixed pawn movement and worked on rook movement
+
+commit c056e8f784d091a9fa52e956fd17258c60c8d461
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 17 12:07:53 2017 -0500
+
+    Edited pawn movement
+
+commit 8fb510f5a0aef1bdb5bdaf808b98aca1356f4611
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Fri Nov 17 11:51:30 2017 -0500
+
+    Fixed pawn attacking
+
+commit fc673ec8d14fcf2716bd7e17b8f0d2ea3a5ec4fe
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 15 22:31:14 2017 -0500
+
+    Finished display board and pawn valid movements
+
+commit 65d4a0b465c3fd4fdf941a64833c9f2f672c5409
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 15 13:59:39 2017 -0500
+
+    Worked on valid move for pawn and rook
+
+commit 0a9421aa7875bbbc9b349717f4388c3a9ceddcf0
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Wed Nov 15 11:48:27 2017 -0500
+
+    Worked on ChessPiece valid move
+
+commit 98a8e3b151c422d9c58ce150b989f5627f59b4d5
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Nov 13 23:39:24 2017 -0500
+
+    Worked on make_move function in ChessGame.cpp
+
+commit 44a380f3a82f8c5e285fc770e37cfab99899ebf7
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Nov 13 23:02:06 2017 -0500
+
+    Added forfeit option to interface
+
+commit e9476818229fc69470db56538fc0bc2039c98069
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Nov 13 22:48:07 2017 -0500
+
+    Modified run function in Game to take user input
+
+commit 1b77959b88bd8726af789d911edab525d3aa4e55
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Nov 13 21:49:57 2017 -0500
+
+    Made constructor to read in a saved file
+
+commit 90e3e55a3f7b831c78daf62649fb12c95349029c
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Nov 13 13:58:19 2017 -0500
+
+    Added given files to repository
+
+commit b64a7f7010ecf57548d536969ac7e8803a47efda
+Merge: 119c901 9d47d94
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Nov 13 13:54:13 2017 -0500
+
+    fixed merge conflict
+
+commit 119c901bb92de4bebca78cf27379da121183a118
+Author: Yunfei Li <yli208@jhu.edu>
+Date:   Mon Nov 13 13:45:38 2017 -0500
+
+    added all the starter files
+
+commit 9d47d9431664d5457de067a515c1d5bc6617cd68
+Author: Derek Chang <dchang38@jhu.edu>
+Date:   Mon Nov 13 13:42:38 2017 -0500
+
+    Added given files to repository
+
+commit 1265df1aaf257464d1cbc9f1fedfde6026fc6527
+Author: Nicholas Maritato <nmarita1@jhu.edu>
+Date:   Mon Nov 13 18:37:16 2017 +0000
+
+    .gitignore created online with Bitbucket
